@@ -1,6 +1,6 @@
 ### Hi, I'm Godwin 👋
 
-My work focuses on Data, Machine Learning and Artificial Intelligence engineering.  
+My work focuses on Cloud, Machine Learning and Artificial Intelligence engineering.  
 
 #### 🔗 Let's Connect!
 
